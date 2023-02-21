@@ -1,10 +1,10 @@
 import Logo from "@/assets/Logo.png";
-import NowFitLogo from "@/assets/nowfitlogo.png"
+import NowFitLogo from "@/assets/NowFitLogo.png"
 
 const Footer = () => {
   return (
     <footer className="bg-primary-100 py-16">
-      <div className="justify-content mx-auto w-5/6 gap-16 md:flex text-white">
+      <div className="justify-content mx-auto w-5/6 gap-16 md:flextext-white">
         <div className="mt-16 basis-1/2 md:mt-0 ">
           <img alt="logo" src={NowFitLogo}  className="h-28 w-36"/>
           <p className="my-5">

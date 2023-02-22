@@ -1,7 +1,5 @@
 # NowFit
 
-# Project Title
-
 Overview:
 
 React Application initialized with Vite. The Frontend is built using React, Typescript, Vite, Tailwind, Hero Icons, Framer Motion, Form Submit, React Anchor Link Smooth Scroll.

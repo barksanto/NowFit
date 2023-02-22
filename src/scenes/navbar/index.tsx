@@ -30,7 +30,7 @@ const Navbar = ({selectedPage, setSelectedPage, isTopOfPage}: Props) => {
           {/* Left side */}
           {/* <img src={NowFitLogo} alt="logo"className="h-20 w-36"/> */}
           <div className="flex justify-center border-2 rounded-full p-3"> 
-            <span style={{fontFamily: "Montserrat"}}>NowFit<FireIcon color="purple"></FireIcon></span>
+            <span style={{fontFamily: "Montserrat", color:"white"}}>NowFit<FireIcon color="purple"></FireIcon></span>
           </div>
           
           {isAboveMediumScreens ? (<div className={`${flexBetween} w-full`}>

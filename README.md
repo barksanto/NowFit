@@ -12,10 +12,6 @@ Variables that are used in more than one component are defined with their types 
 
 There is a custom React hook in the Hooks folder to handle media queries. It returns a boolean that check if a screen is below a certain size which is then imported in to respective components to handle resizing.
 
-## Getting Started
-15
-​
-16
 ### Dependencies
 "@heroicons/react": "^2.0.16",
 "framer-motion": "^9.0.4",
@@ -50,4 +46,4 @@ After cloning the repo to your local machine, run the terminal command below:
 ```
 npm run dev
 ```
-This will spin up a server in yur localhost. 
+This will spin up a server in your localhost. 
